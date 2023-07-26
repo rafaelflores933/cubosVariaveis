@@ -34,7 +34,7 @@ valor_do_desconto = 60;
 
 Essa relação lê-se: _"110 reais representa 100% do valor, quantos porcento equivale a 60 reais?"_ Esse valor é obtido em **d**.
 
-$$ 60 \* 100 = 110d $$
+$$ 60 \ * 100 = 110d $$
 
 $$ \frac{6000}{110} = d $$
 
