@@ -3,3 +3,4 @@ function taxaJuros(m, c, n) {
     return i
 }
 console.log(taxaJuros(90000, 60000, 24))
+/* nao consegui fazer*/
