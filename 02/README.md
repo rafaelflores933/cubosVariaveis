@@ -6,7 +6,7 @@
 
 Para convertermos graus em Fahrenheit para graus em Celsius utilizamos a seguinte fórmula:
 
-$$ C = (F - 32) \* \frac{5}{9} $$
+$$ C = (F - 32) \ * \frac{5}{9} $$
 
 Onde,
 
@@ -22,7 +22,7 @@ Sendo:
 
 $$ F = 73 $$
 
-$$ C = (73 - 32) \* \frac{5}{9} $$
+$$ C = (73 - 32) \ * \frac{5}{9} $$
 
 $$ C ≅ 23 $$
 
